@@ -17,9 +17,9 @@
 
 
 Гайд по установке:
-Создаём venv
-Скачиваем все зависимости: pip install requirements.txt
-запускаем файл bot.py
+* Создаём venv
+* Скачиваем все зависимости: pip install requirements.txt
+* запускаем файл bot.py
 
 Если ругается библиотека ruff (может быть а может и нет):
 просто удалем её: pip uninstall ruff
